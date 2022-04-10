@@ -1,0 +1,55 @@
+.head {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 350px;
+    top: 200px;
+}
+span {
+    color: grey;
+    font-weight: 100;
+}
+a {
+    text-decoration: none;
+}
+.flex-container {
+    background-color: white;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    height: 500px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(170 148 148);
+    height: 200px;
+    width: 140px;
+    text-align: center;
+    padding: 5px;
+    color: red;
+}
+p {
+    color: red;
+}
+strike {
+    color: red;
+}
+
+.material-icons {
+    color: red;
+    position: absolute;
+    left: 700px;
+    top: 200px;
+}
+.list1 {
+    position: absolute;
+    left: 730px;
+    top: 203px;
+}
+
+
